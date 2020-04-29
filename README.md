@@ -1,4 +1,4 @@
 # MaskDetection
 To detect if one is using a mask.
 
-![MaskDetection] (gif.gif)
+https://giphy.com/gifs/fVoAZUkFdyxoVUblqh/html5
