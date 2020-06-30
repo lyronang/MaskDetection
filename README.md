@@ -6,10 +6,10 @@ To detect if one is using a mask.
 
 # Packages required
 
-tensorflow2.0\n
-keras
-opencv
-numpy
-imutils
-dlib
+tensorflow 2.0\
+keras\
+opencv\
+numpy\
+imutils\
+dlib\
 
