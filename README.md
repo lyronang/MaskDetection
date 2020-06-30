@@ -6,10 +6,8 @@ To detect if one is using a mask.
 
 # Packages required
 
-tensorflow 2.0\
-keras\
-opencv\
-numpy\
-imutils\
-dlib\
-
+pip install tensorflow-gpu==2.0\
+pip install opencv-contrib-python\
+pip install imutils\
+dlib from davisking's github
+pip install face_recognition
