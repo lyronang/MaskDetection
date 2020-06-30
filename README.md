@@ -9,5 +9,5 @@ To detect if one is using a mask.
 pip install tensorflow-gpu==2.0\
 pip install opencv-contrib-python\
 pip install imutils\
-dlib from davisking's github
+dlib from davisking's github\
 pip install face_recognition
