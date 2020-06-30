@@ -6,9 +6,10 @@ To detect if one is using a mask.
 
 # Packages required
 
-tensorflow 2.0
+tensorflow2.0\n
 keras
 opencv
 numpy
 imutils
+dlib
 
