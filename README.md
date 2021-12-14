@@ -1,5 +1,5 @@
 # MaskDetection
-To detect if one is using a mask.
+To detect if one is wearing a mask.
 
 
 ![Mask Detection Demo](gif.gif)
